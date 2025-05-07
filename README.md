@@ -1,3 +1,3 @@
-# sl-netengcc-mta-sts
+# m-netwk-mta-sts
 
 Well-known folder for mta-sts policy file
